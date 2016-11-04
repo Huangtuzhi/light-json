@@ -23,4 +23,11 @@ struct light_number {
 
 ```
 
-参考 [ C语言中结构体自引用和相互引用](http://blog.csdn.net/daheiantian/article/details/6233058)可以找到答案
+参考 [ C语言中结构体自引用和相互引用](http://blog.csdn.net/daheiantian/article/details/6233058)可以找到答案，只需要在上面加入
+
+```
+struct light_value;
+struct light_number;
+```
+
+使用不完全声明的方式。
