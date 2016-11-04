@@ -22,3 +22,5 @@ struct light_number {
 };
 
 ```
+
+参考 [ C语言中结构体自引用和相互引用](http://blog.csdn.net/daheiantian/article/details/6233058)可以找到答案
