@@ -1,5 +1,7 @@
-# json-lib
-Study of [json-tutorial](https://github.com/miloyip/json-tutorial).
+# light-json
+A light json Lib referring to [json-tutorial](https://github.com/miloyip/json-tutorial).
+
+## 目录
 
 01 [解析 NULL/True/False 字面量和 TDD 编程](./tutorial01)
 
